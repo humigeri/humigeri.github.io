@@ -21,22 +21,22 @@
 
 <script type="text/javascript">
 var qrcodekhz = new QRCode(document.getElementById("qrcodekhz"), {
-    text   : "https://humigeri.github.io/download/com.spc.khzv3.apk"
+    text   : "https://humigeri.github.io/download/com.spc.khzv3.apk",
 	width  : 100,
 	height : 100
 });
 var qrcodekhzteszt = new QRCode(document.getElementById("qrcodekhzteszt"), {
-    text   : "https://humigeri.github.io/download/com.spc.khztesztv3.apk"
+    text   : "https://humigeri.github.io/download/com.spc.khztesztv3.apk",
 	width  : 100,
 	height : 100
 });
 var qrcodesofor = new QRCode(document.getElementById("qrcodesofor"), {
-    text   : "https://humigeri.github.io/download/com.spc.soforv3.apk"
+    text   : "https://humigeri.github.io/download/com.spc.soforv3.apk",
 	width  : 100,
 	height : 100
 });
 var qrcodesoforteszt = new QRCode(document.getElementById("qrcodesoforteszt"), {
-    text   : "https://humigeri.github.io/download/com.spc.sofortesztv3.apk"
+    text   : "https://humigeri.github.io/download/com.spc.sofortesztv3.apk",
 	width  : 100,
 	height : 100
 });
