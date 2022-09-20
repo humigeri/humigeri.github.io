@@ -13,10 +13,10 @@
 
 ## Kedvenc Sofőr modul
 
-<a href="download/com.spc.soforv4.apk" download>SPCSofor v1.0.0.3 (JEGSBO2/KHAZ_PROD)</a>
+<a href="download/com.spc.soforv4.apk" download>SPCSofor v1.0.0.4 (JEGSBO2/KHAZ_PROD)</a>
 <div id="qrcodesofor" style="width:100px; height:100px; margin:25px;"></div>
 
-<a href="download/com.spc.sofortesztv4.apk" download>SPCSoforTeszt v1.0.0.3 (JEGSBO2/TESZT_KHAZ_UJ)</a>
+<a href="download/com.spc.sofortesztv4.apk" download>SPCSoforTeszt v1.0.0.4 (JEGSBO2/TESZT_KHAZ_UJ)</a>
 <div id="qrcodesoforteszt" style="width:100px; height:100px; margin:25px;"></div>
 
 <script type="text/javascript">
