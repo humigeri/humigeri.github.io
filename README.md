@@ -8,7 +8,7 @@
 <a href="download/com.spc.khzv5.apk" download>SPCKhz v1.0.0.5 (JEGSBO2/KHAZ_PROD)</a>
 <div id="qrcodekhz" style="width:100px; height:100px; margin:25px;"></div>
 
-<a href="download/com.spc.khztesztv5.apk" download>SPCKhzTeszt v1.0.0.5 (JEGSBO2/TESZT_KHAZ_UJ)</a>
+<a href="download/com.spc.khztesztv7.apk" download>SPCKhzTeszt v1.0.0.7 (JEGSBO2/TESZT_KHAZ_UJ)</a>
 <div id="qrcodekhzteszt" style="width:100px; height:100px; margin:25px;"></div>
 
 ## Kedvenc Sofőr modul
@@ -26,7 +26,7 @@ var qrcodekhz = new QRCode(document.getElementById("qrcodekhz"), {
 	height : 100
 });
 var qrcodekhzteszt = new QRCode(document.getElementById("qrcodekhzteszt"), {
-    text   : "https://humigeri.github.io/download/com.spc.khztesztv5.apk",
+    text   : "https://humigeri.github.io/download/com.spc.khztesztv7.apk",
 	width  : 100,
 	height : 100
 });
