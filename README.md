@@ -59,12 +59,12 @@ var qrcodesoforteszt = new QRCode(document.getElementById("qrcodesoforteszt"), {
 	height : 100
 });
 var qrcodeegyediar = new QRCode(document.getElementById("qrcodeegyediar"), {
-    text   : "https://humigeri.github.io/download/com.spc.egyediarv7.apk",
+    text   : "https://humigeri.github.io/download/com.spc.com.spc.khzkedvencarv7.apk",
 	width  : 100,
 	height : 100
 });
 var qrcodeegyediarteszt = new QRCode(document.getElementById("qrcodeegyediarteszt"), {
-    text   : "https://humigeri.github.io/download/com.spc.egyediartesztv7.apk",
+    text   : "https://humigeri.github.io/download/com.spc.khzkedvencartesztv7.apk",
 	width  : 100,
 	height : 100
 });
