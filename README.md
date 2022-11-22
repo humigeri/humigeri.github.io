@@ -17,12 +17,12 @@
   
 ### Kedvenc Egyedi ár modul (KHZ-ből készült, csak ármodulos menüpontokkal)
 
-<a href="download/com.spc.khzkedvencarv7.apk" download>SPCKedvencAr v1.0.0.7 (JEGSBO2/KHAZ_PROD)</a>
+<a href="download/com.spc.khzkedvencarv8.apk" download>SPCKedvencAr v1.0.0.8 (JEGSBO2/KHAZ_PROD)</a>
 <div id="qrcodeegyediar" style="width:100px; height:100px; margin:25px;"></div>
 
 <br/><br/>
   
-<a href="download/com.spc.khzkedvencartesztv7.apk" download>SPCKedvencAr v1.0.0.7 (JEGSBO2/TESZT_KHAZ_UJ)</a>
+<a href="download/com.spc.khzkedvencartesztv8.apk" download>SPCKedvencAr v1.0.0.8 (JEGSBO2/TESZT_KHAZ_UJ)</a>
 <div id="qrcodeegyediarteszt" style="width:100px; height:100px; margin:25px;"></div>
 
 <br/><br/>
@@ -59,12 +59,12 @@ var qrcodesoforteszt = new QRCode(document.getElementById("qrcodesoforteszt"), {
 	height : 100
 });
 var qrcodeegyediar = new QRCode(document.getElementById("qrcodeegyediar"), {
-    text   : "https://humigeri.github.io/download/com.spc.com.spc.khzkedvencarv7.apk",
+    text   : "https://humigeri.github.io/download/com.spc.khzkedvencarv8.apk",
 	width  : 100,
 	height : 100
 });
 var qrcodeegyediarteszt = new QRCode(document.getElementById("qrcodeegyediarteszt"), {
-    text   : "https://humigeri.github.io/download/com.spc.khzkedvencartesztv7.apk",
+    text   : "https://humigeri.github.io/download/com.spc.khzkedvencartesztv8.apk",
 	width  : 100,
 	height : 100
 });
