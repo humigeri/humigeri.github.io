@@ -22,7 +22,7 @@
 
 <br/><br/>
   
-<a href="download/com.spc.khzkedvencartesztv8.apk" download>SPCKedvencAr v1.0.0.8 (JEGSBO2/TESZT_KHAZ_UJ)</a>
+<a href="download/com.spc.khzkedvencartesztv8.apk" download>SPCKedvencArTeszt v1.0.0.8 (JEGSBO2/TESZT_KHAZ_UJ)</a>
 <div id="qrcodeegyediarteszt" style="width:100px; height:100px; margin:25px;"></div>
 
 <br/><br/>
